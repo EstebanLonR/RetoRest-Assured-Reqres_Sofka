@@ -29,4 +29,3 @@ Package test/stepdefinition: contiene los pasos necesarios con las que el runner
 
 Directory resources/features: se encuentran las historias de usuario y los escenarios propuestos para probar en lenguaje Gherkin
 
-Directory resources/drivers: se encuentran los drivers de navegador necesarios en los que realizaremos las pruebas
