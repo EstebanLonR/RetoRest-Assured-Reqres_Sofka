@@ -12,7 +12,7 @@ Para clonar este repositorio localmente este es el comando el cual se debera eje
 
 Explicacion del Proyecto🤓
 
-En la carpeta de Documentos de pruebas estaran publicados en formato PDF el plan de pruebas construido para la verificacion de las funcionalidades de los microservicios. Igualmente en este siguiente Link tambien se encontrara publicado el mismo: https://www.notion.so/Plan-De-Pruebas-Automatizadas-Reqres-9ecfc00f648f4b50a36bafcf255288f6
+En la carpeta de Documentos de pruebas estaran publicados en formato PDF el plan de pruebas construido para la verificacion de las funcionalidades de los microservicios. Igualmente en este siguiente Link tambien se encontrara publicado el mismo: https://fuzzy-gruyere-5cb.notion.site/Plan-De-Pruebas-Automatizadas-Reqres-9ecfc00f648f4b50a36bafcf255288f6
 
 Variables y Funciones: Lower Camel Case. Ejemplo: nomenclaturaEjemplo. Class names: PascalCase or Upper Camel Case. Ejemplo: NomenclaturaEjemplo. Versionamiento 🔀 Git es usado para el control de Version.
 
